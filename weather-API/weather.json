@@ -1,0 +1,28 @@
+{
+	"coord":{"lon":121,"lat":24},
+	"weather":[
+		{"id":801,"main":"Clouds",
+		"description":"few clouds",
+		"icon":"02d"}
+	],
+	"base":"stations",
+	"main":{
+		"temp":294.63,"feels_like":294.5,"temp_min":290.37,
+		"temp_max":295.27,"pressure":1016,
+		"humidity":64,"sea_level":1016,"grnd_level":897
+	},
+	
+	"visibility":10000,
+	
+	"wind":{
+		"speed":1.5,"deg":246,"gust":1.42
+		},
+	
+	"clouds":{"all":23},
+	
+	"dt":1669787838,
+	
+	"sys":{"type":2,"id":265185,"country":"TW","sunrise":1669760477,"sunset":1669799285},
+	
+	"timezone":28800,"id":1668284,"name":"Taiwan","cod":200
+}

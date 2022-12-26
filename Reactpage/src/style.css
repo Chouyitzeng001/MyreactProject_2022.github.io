@@ -1,0 +1,73 @@
+*{
+    box-sizing: border-box;
+}
+
+body{margin: 0px;}
+
+nav{
+    background-color: gray;
+}
+
+/* class , 透過className 屬性才可使用*/
+.nav-img{
+    width: 50%;
+}
+
+nav ul{
+    list-style-type: none;
+    display: inline-flex;    
+    align-items: center;
+    margin: 0px;
+}
+
+nav li{
+    padding:0.8vw;
+}
+
+nav a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: white;
+    border-top: 1px white solid;
+    border-bottom: 1px white solid;
+}
+.fruit-div{
+    display: block;
+    
+}
+
+.fruit-img{
+    width: 75%;   
+    border-radius: 0.5rem;
+    padding: 0.5vw;
+    box-shadow: 2px 2px 2px 2px lightgray;
+
+}
+
+.fruit-svg{
+    width: 1em;
+
+}
+
+.fruit-font{
+    color:gray;
+}
+
+
+/* Myrouter */
+.nav-1{
+    width: 100%;
+    height: 3.5rem;
+    display: flex;    
+    align-items: center;
+    margin: 0px;
+   justify-content: space-around;
+}
+
+
+.nav-2{ 
+    padding:0.8vw;
+}
