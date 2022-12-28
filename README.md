@@ -10,13 +10,13 @@
 
 <p> ... </p>
 
-- ## react_todo🔋
+- ## React_todo🔋
 
 
 <p> ... </p>
 
 
-- ## weather-API🔋
+- ## Weather-API🔋
 
 
 
