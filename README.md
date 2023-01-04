@@ -38,5 +38,5 @@
 <img width="1000" height="500"  src="./weather.png">
 <img width="1000" height="500"  src="./Weather_API.png">
 <img width="1000" height="500"  src="./JSON.png">
-<div> <strong>React串接Weather-API </div>
+<div> <strong>React串接Weather-API，轉型JSON並找到對應變數取得資料 </div>
 </div>
